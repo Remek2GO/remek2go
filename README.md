@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a passionate Python developer actively honing my skills through various science club projects. My experience includes working on vision systems, algorithm development, and API creation. I am also expanding my knowledge in control systems, industrial automation, and databases as part of my academic pursuits. I pride myself on being organized, conscientious, and always ready to tackle new challenges.
 
 <!--
 **Remek2GO/remek2go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
